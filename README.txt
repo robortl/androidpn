@@ -1,2 +1,2 @@
-只需要改下 client xmpphost就 ok
+alter client xmpphost ok            
 pengqiuyuanfj@gmail.com 
