@@ -28,4 +28,3 @@ pengqiuyuanfj@gmail.com
 	serviceManager.setNotificationIcon(R.drawable.icon);
 	serviceManager.startService();
    }
-6、最后修改androidpn.properties 的xmpphost就好了
